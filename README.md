@@ -1,6 +1,7 @@
 # MeanCache for Z-Image (ComfyUI)
 
 Training-free inference acceleration for Z-Image Flow Matching models based on [UnicomAI MeanCache](https://unicomai.github.io/MeanCache/).
+<img width="2112" height="1148" alt="z_00128_" src="https://github.com/user-attachments/assets/89fc1acf-390c-4c87-ae42-a7071712bf31" />
 
 ## Features
 
